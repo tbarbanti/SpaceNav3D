@@ -23,4 +23,4 @@ Plugin made by [ParcelRot](https://github.com/ParcelRot) and updated by [aaronsn
 
 The 3DConnexion SDK is governed by the [3DConnexion Terms](http://www.3dconnexion.eu/terms.html) and [3DConnextion SDK License](https://www.3dconnexion.eu/service/software-developer/licence-agreement/sdk-download.html).
 
-This version contains 3DConnexion includes by https://github.com/tbarbanti
+This version contains 3DConnexion SDK includes by [tbarbanti](https://github.com/tbarbanti) and compiled against UE 4.18.1 and master branch (@2018/01 - 4.20.0 version)
