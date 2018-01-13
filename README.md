@@ -6,7 +6,7 @@ An unofficial [3DConnexion](https://www.3dconnexion.eu) Space Navigator support 
 
  0. Download and install the 3DConnexion [3DxWare drivers](http://www.3dconnexion.eu/service/drivers.html)
  1.	[Download the latest release](releases)
- 2.	Extract the SpaceNav3D folder into your UE4 Engine Plugins folder (usually something like `C:\Program Files (x86)\Epic Games\UE_4.15\Engine\Plugins`.
+ 2.	Extract the SpaceNav3D folder into your UE4 Engine Plugins folder (usually something like `C:\Program Files (x86)\Epic Games\UE_4.18\Engine\Plugins`.
  3. Enable the plugin via Edit > Plugins > Installed > Input Devices > SpaceNav3D. Click Enabled.
  4.	Restart the Editor and open your project again. Plugin is now ready to use.
 
