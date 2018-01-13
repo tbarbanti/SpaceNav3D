@@ -22,3 +22,5 @@ If you want to develop for the plugin, you will need to download the 3DxWare SDK
 Plugin made by [ParcelRot](https://github.com/ParcelRot) and updated by [aaronsnoswell](https://github.com/aaronsnoswell). Point all questions to the main discussion thread.
 
 The 3DConnexion SDK is governed by the [3DConnexion Terms](http://www.3dconnexion.eu/terms.html) and [3DConnextion SDK License](https://www.3dconnexion.eu/service/software-developer/licence-agreement/sdk-download.html).
+
+This version contains 3DConnexion includes by https://github.com/tbarbanti
